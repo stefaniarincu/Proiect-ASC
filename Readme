@@ -1,1 +1,6 @@
 Proiect ASC
+echipa noastra: theTrio
+echipa adversa: Dix
+parola acesteia: Cafea123
+Am sesizat ca parola lor avea 8 caractere, iar aceasta trebuia sa aiba cel putin 10 caractere, iar daca luam "Cafea123Cafea123" ar avea 16 caractere
+Pentru prima cerinta (cea in care ne folosim si de input si de output) am xor-at fiecare litera din fisierul input cu caracterul caruia ii corespunde fiecare conditie din fisierul aoutput, iar rezultatul obtinut va fi parola scrisa de mai multe ori. Apoi am luat parola tinand cont ca trebuie sa aiba intre 10 si 15 caractere
